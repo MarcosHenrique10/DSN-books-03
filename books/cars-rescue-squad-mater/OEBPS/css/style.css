@@ -1,0 +1,286 @@
+img{z-index:-1;}
+
+body {
+	width: 743px;
+	height: 1010px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 743px;
+	height: 1010px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 681px;
+	left: 165px;
+	right: 0px;
+width: 426px;height: 230px;}
+div.page4_item1{
+	position: absolute;
+	top: 822px;
+	left: 101px;
+	right: 0px;
+width: 610px;height: 113px;}
+div.page5_item1{
+	position: absolute;
+	top: 830px;
+	left: 122px;
+	right: 0px;
+width: 520px;height: 121px;}
+div.page6_item1{
+	position: absolute;
+	top: 682px;
+	left: 117px;
+	right: 0px;
+width: 590px;height: 265px;}
+div.page7_item1{
+	position: absolute;
+	top: 90px;
+	left: 129px;
+	right: 0px;
+width: 522px;height: 167px;}
+div.page8_item1{
+	position: absolute;
+	top: 80px;
+	left: 107px;
+	right: 0px;
+width: 488px;height: 249px;}
+div.page9_item1{
+	position: absolute;
+	top: 774px;
+	left: 278px;
+	right: 0px;
+width: 433px;height: 181px;}
+div.page10_item1{
+	position: absolute;
+	top: 78px;
+	left: 123px;
+	right: 0px;
+width: 519px;height: 313px;}
+div.page11_item1{
+	position: absolute;
+	top: 911px;
+	left: 452px;
+	right: 0px;
+width: 197px;height: 41px;}
+div.page12_item1{
+	position: absolute;
+	top: 810px;
+	left: 128px;
+	right: 0px;
+width: 515px;height: 108px;}
+div.page13_item1{
+	position: absolute;
+	top: 810px;
+	left: 115px;
+	right: 0px;
+width: 543px;height: 82px;}
+div.page14_item1{
+	position: absolute;
+	top: 920px;
+	left: 133px;
+	right: 0px;
+width: 222px;height: 41px;}
+div.page15_item1{
+	position: absolute;
+	top: 80px;
+	left: 121px;
+	right: 0px;
+width: 544px;height: 301px;}
+div.page16_item1{
+	position: absolute;
+	top: 78px;
+	left: 116px;
+	right: 0px;
+width: 528px;height: 151px;}
+div.page17_item1{
+	position: absolute;
+	top: 78px;
+	left: 143px;
+	right: 0px;
+width: 525px;height: 147px;}
+div.page18_item1{
+	position: absolute;
+	top: 585px;
+	left: 95px;
+	right: 0px;
+width: 452px;height: 299px;}
+div.page20_item1{
+	position: absolute;
+	top: 799px;
+	left: 118px;
+	right: 0px;
+width: 523px;height: 123px;}
+div.page21_item1{
+	position: absolute;
+	top: 800px;
+	left: 153px;
+	right: 0px;
+width: 539px;height: 133px;}
+div.page22_item1{
+	position: absolute;
+	top: 78px;
+	left: 139px;
+	right: 0px;
+width: 478px;height: 263px;}
+div.page3_item1{
+ position: absolute;
+	top: 30px;
+	left: 107px;
+	right: 0px;width: 532px;height: 551px;}
+
+@font-face
+{
+  font-family: "Arial";
+  src: url(../fonts/Arial.ttf);
+}
+
+@font-face
+{
+  font-family: "Billy";
+  src: url(../fonts/Billy.ttf);
+}
+
+@font-face
+{
+  font-family: "Century";
+  src: url(../fonts/Century.ttf);
+}
+
+@font-face
+{
+  font-family: "Century_Italic";
+  src: url(../fonts/Century_Italic.ttf);
+}
+
+@font-face
+{
+  font-family: "House";
+  src: url(../fonts/House.ttf);
+}
+
+span.italic
+{
+font-family: "Century_Italic";
+}
+p.copy1{
+	font-family: "Century";
+	font-size: 12px;
+	line-height: 14px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 14px;
+}
+
+p.copy2{
+	word-spacing:-1px;
+	font-family: "Century";
+	font-size: 12px;
+	line-height: 14px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 14px;
+}
+
+span.arialp
+{
+font-family: "Arial";
+}
+p.nonindent{
+	font-family: "Billy";
+	font-size: 22px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.indent{
+	font-family: "Billy";
+	font-size: 22px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 22px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+span.dc
+{
+color:#D0232B;
+font-size: 38px;
+font-family: "House";
+}
+span.red_big
+{
+line-height: 34px;
+color:#D0232B;
+font-size: 27px;
+font-family: "House";
+}
+span.bold1
+{
+line-height: 34px;
+font-size: 27px;
+font-family: "House";
+}
+
+.white
+{
+color:#FFFFFF;
+}
+
+.media-overlay-active { color:#f66f35 !important; }
+
+.media-overlay-active span.dc,
+.media-overlay-active span.red_big
+{
+padding-top:10px;
+margin-top:-10px;
+ color:#f66f35 !important; }
+
+
+span.sp
+{
+word-spacing:5px;
+}
+span.space0
+{
+word-spacing:0px;
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id216g">
+      <!--  -->
+      <text src="../027.xhtml#empty"/>
+      <audio clipBegin="137300ms" clipEnd="137925ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id216">
+      <!-- Kori -->
+      <text src="../027.xhtml#w216"/>
+      <audio clipBegin="137925ms" clipEnd="138405ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id217">
+      <!-- reports -->
+      <text src="../027.xhtml#w217"/>
+      <audio clipBegin="138405ms" clipEnd="139015ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id218">
+      <!-- the -->
+      <text src="../027.xhtml#w218"/>
+      <audio clipBegin="139015ms" clipEnd="139145ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id219">
+      <!-- latest -->
+      <text src="../027.xhtml#w219"/>
+      <audio clipBegin="139145ms" clipEnd="139685ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id220">
+      <!-- news -->
+      <text src="../027.xhtml#w220"/>
+      <audio clipBegin="139685ms" clipEnd="140345ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id220g">
+      <!--  -->
+      <text src="../027.xhtml#empty1"/>
+      <audio clipBegin="140345ms" clipEnd="141326ms" src="../audio/9781484751596.m4a"/>
+    </par>
+  </body>
+</smil>

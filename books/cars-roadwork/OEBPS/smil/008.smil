@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id44g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="43035ms" clipEnd="44165ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id44">
+      <!-- Ramone -->
+      <text src="../008.xhtml#w44"/>
+      <audio clipBegin="44165ms" clipEnd="44745ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id45">
+      <!-- gives -->
+      <text src="../008.xhtml#w45"/>
+      <audio clipBegin="44745ms" clipEnd="45045ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id46">
+      <!-- himself -->
+      <text src="../008.xhtml#w46"/>
+      <audio clipBegin="45045ms" clipEnd="45585ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id47">
+      <!-- a -->
+      <text src="../008.xhtml#w47"/>
+      <audio clipBegin="45585ms" clipEnd="45705ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id48">
+      <!-- fresh -->
+      <text src="../008.xhtml#w48"/>
+      <audio clipBegin="45705ms" clipEnd="46145ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id49">
+      <!-- coat -->
+      <text src="../008.xhtml#w49"/>
+      <audio clipBegin="46145ms" clipEnd="46435ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id50">
+      <!-- of -->
+      <text src="../008.xhtml#w50"/>
+      <audio clipBegin="46435ms" clipEnd="46545ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id51">
+      <!-- paint -->
+      <text src="../008.xhtml#w51"/>
+      <audio clipBegin="46545ms" clipEnd="47035ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id51g">
+      <!--  -->
+      <text src="../008.xhtml#empty1"/>
+      <audio clipBegin="47035ms" clipEnd="47570ms" src="../audio/9781484751596.m4a"/>
+    </par>
+  </body>
+</smil>

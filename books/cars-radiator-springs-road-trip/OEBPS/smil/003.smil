@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="10379ms" src="../audio/9781484752012.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Radiator -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="10379ms" clipEnd="10899ms" src="../audio/9781484752012.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Springs -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="10899ms" clipEnd="11449ms" src="../audio/9781484752012.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Road -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="11449ms" clipEnd="11809ms" src="../audio/9781484752012.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Trip -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="11809ms" clipEnd="12189ms" src="../audio/9781484752012.m4a"/>
+		</par>
+		<par id="id4g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="12189ms" clipEnd="13223ms" src="../audio/9781484752012.m4a"/>
+		</par>
+	</body>
+</smil>

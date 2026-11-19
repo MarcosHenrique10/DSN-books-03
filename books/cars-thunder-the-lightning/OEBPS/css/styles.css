@@ -1,0 +1,142 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/Arial.otf);
+}
+@font-face {
+	font-family:"arial-black";
+	src: url(../fonts/Arial-Black.otf);
+}
+@font-face {
+	font-family:"times-new-roman-regular";
+	src: url(../fonts/TimesNewRoman.otf);
+}
+@font-face {
+	font-family:"Times-Italic";
+	src: url(../fonts/Times-Italic.otf);
+}
+@font-face {
+	font-family:"crillee-bold-italic-plain";
+	src: url(../fonts/crillee-bold-italic-regular.otf);
+}
+@font-face {
+	font-family:"crillee-bold-italic-regular";
+	src: url(../fonts/crillee-bold-italic-regular.otf);
+}
+@font-face {
+	font-family:"helvetica-regular";
+	src: url(../fonts/Helvetica.otf);
+}
+@font-face {
+	font-family:"blindfish-light";
+	src: url(../fonts/blindfish-light.otf);
+}
+@font-face {
+	font-family:"blindfish-medium";
+	src: url(../fonts/blindfish-medium.otf);
+}
+.font-1 {
+	font-family:"times-new-roman-regular";
+	font-size:11px;
+	line-height:12px;
+}
+.font-1a {
+	font-family:"times-new-roman-regular";
+	font-size:10px;
+}
+.font-1b {
+	font-family:"Times-Italic";
+	font-size:10px;
+}
+.font-2 {
+	font-family:"arial-regular";
+	font-size:11px;
+	line-height:12px;
+}
+.font-2a {
+	font-family:"arial-regular";
+	font-size:10px;
+}
+.font-3 {
+	font-family:"blindfish-light";
+	font-size:18px;
+}
+.font-4 {
+	font-family:"blindfish-light";
+	font-size:17px;
+}
+.font-4a {
+	font-family:"blindfish-light";
+	font-size:15px;
+}
+.font-5 {
+	font-family:"crillee-bold-italic-regular";
+	font-size:41px;
+	line-height:29px;
+}
+.font-6 {
+	font-family:"blindfish-light";
+	font-size:41px;
+	line-height:29px;
+}
+.font-6a {
+	font-family:"blindfish-light";
+	font-size:36px;
+}
+.font-7 {
+	font-family:"crillee-bold-italic-regular";
+	font-size:38px;
+}
+.font-7a {
+	font-family:"crillee-bold-italic-regular";
+	font-size:36px;
+}
+.font-8 {
+	font-family:"blindfish-light";
+	font-size:21px;
+	line-height:29px;
+}
+.font-8a {
+	font-family:"blindfish-light";
+	font-size:18px;
+}
+.font-9 {
+	font-family:"crillee-bold-italic-regular";
+	font-size:23px;
+	line-height:29px;
+}
+.font-9a {
+	font-family:"crillee-bold-italic-regular";
+	font-size:20px;
+}
+.font-9b {
+	font-family:"arial-black";
+	font-size:20px;
+}
+.font-10 {
+	font-family:"blindfish-medium";
+	font-size:21px;
+}
+.font-10a {
+	font-family:"blindfish-medium";
+	font-size:19px;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:738px; height:738px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:738px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:738px; height:738px; position:relative; background-size:100% 100% !important; left:25%; }
+.special-highlight span.media-overlay-active { color: #26b178 !important; }
+/*span { color:#ff0000 !important; }*/

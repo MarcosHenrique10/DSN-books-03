@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="15335ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Cars -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="15335ms" clipEnd="16845ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Roadwork -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16845ms" clipEnd="18395ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- By -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="18395ms" clipEnd="18545ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Melissa -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="18545ms" clipEnd="19065ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Lagonegro -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="19065ms" clipEnd="20445ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="20445ms" clipEnd="21075ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- by -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="21075ms" clipEnd="21355ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Art -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="21355ms" clipEnd="21635ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Mawhinney -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="21635ms" clipEnd="22275ms" src="../audio/9781484751596.m4a"/>
+    </par>
+    <par id="id9g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="22275ms" clipEnd="23285ms" src="../audio/9781484751596.m4a"/>
+    </par>
+  </body>
+</smil>

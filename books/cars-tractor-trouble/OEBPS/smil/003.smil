@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="16455ms" src="../audio/9781484751305.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Tractor -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="16455ms" clipEnd="16965ms" src="../audio/9781484751305.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Trouble -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16965ms" clipEnd="17875ms" src="../audio/9781484751305.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- By -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="17875ms" clipEnd="18145ms" src="../audio/9781484751305.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Frank -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="18145ms" clipEnd="18555ms" src="../audio/9781484751305.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Berrios -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="18555ms" clipEnd="19375ms" src="../audio/9781484751305.m4a"/>
+    </par>
+    <par id="id5g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="19375ms" clipEnd="20341ms" src="../audio/9781484751305.m4a"/>
+    </par>
+  </body>
+</smil>

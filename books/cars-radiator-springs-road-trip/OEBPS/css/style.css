@@ -1,0 +1,278 @@
+img{z-index:-1;}
+
+body {
+	width: 765px;
+	height: 979px;
+	margin: 0;
+	border: none;
+}
+
+@font-face{
+font-family:"arial";
+src: url(../fonts/arial.ttf)
+}
+
+@font-face{
+font-family:"AGaramondPro-Regular";
+src: url(../fonts/AGaramondPro-Regular.otf)
+}
+
+@font-face{
+font-family:"AGaramondPro-Italic";
+src: url(../fonts/AGaramondPro-Italic.otf)
+}
+
+@font-face{
+font-family:"AvenirNext";
+src: url(../fonts/AvenirNext.ttf)
+}
+
+@font-face{
+font-family:"avenirni";
+src: url(../fonts/avenirni.ttf)
+}
+
+@font-face{
+font-family:"HVD_Comic_Serif_Pro";
+src: url(../fonts/HVD_Comic_Serif_Pro.otf)
+}
+
+@font-face{
+font-family:"KraashBlack";
+src: url(../fonts/KraashBlack.ttf)
+}
+
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 765px;
+	height: 979px;
+}
+
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+
+p.indent{
+	font-size: 24px;
+	line-height: 31px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"AvenirNext";
+	word-spacing:-1px;
+}
+
+p.indentw{
+	font-size: 24px;
+	line-height: 31px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"AvenirNext";
+	word-spacing:-1px;
+	color:white;
+}
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 682px;
+	left: 0px;
+	right: 0px;
+}
+div.page4_item1{
+	position: absolute;
+	top: 747px;
+	left: 53px;
+	right: 0px;
+width: 670px;height: 196px;}
+div.page5_item1{
+	position: absolute;
+	top: 746px;
+	left: 55px;
+	right: 0px;
+width: 683px;height: 160px;}
+div.page6_item1{
+	position: absolute;
+	top: 58px;
+	left: 55px;
+	right: 0px;
+width: 688px;height: 228px;}
+div.page8_item1{
+	position: absolute;
+	top: 58px;
+	left: 54px;
+	right: 0px;
+width: 675px;height: 155px;}
+div.page9_item1{
+	position: absolute;
+	top: 58px;
+	left: 55px;
+	right: 0px;
+width: 662px;height: 139px;}
+div.page10_item1{
+	position: absolute;
+	top: 775px;
+	left: 55px;
+	right: 0px;
+width: 674px;height: 94px;}
+div.page11_item1{
+	position: absolute;
+	top: 775px;
+	left: 56px;
+	right: 0px;
+width: 686px;height: 157px;}
+div.page13_item1{
+	position: absolute;
+	top: 58px;
+	left: 55px;
+	right: 0px;
+width: 653px;height: 149px;}
+div.page14_item1{
+	position: absolute;
+	top: 58px;
+	left: 55px;
+	right: 0px;
+width: 676px;height: 232px;}
+div.page15_item1{
+	position: absolute;
+	top: 60px;
+	left: 58px;
+	right: 0px;
+width: 601px;height: 151px;}
+div.page16_item1{
+	position: absolute;
+	top: 51px;
+	left: 88px;
+	right: 0px;
+width: 635px;height: 304px;}
+div.page19_item1{
+	position: absolute;
+	top: 58px;
+	left: 56px;
+	right: 0px;
+width: 655px;height: 332px;}
+div.page21_item1{
+	position: absolute;
+	top: 775px;
+	left: 55px;
+	right: 0px;
+width: 655px;height: 137px;}
+div.page22_item1{
+	position: absolute;
+	top: 58px;
+	left: 55px;
+	right: 0px;
+width: 673px;height: 165px;}
+div.page23_item1{
+	position: absolute;
+	top: 50px;
+	left: 55px;
+	right: 0px;
+width: 653px;height: 154px;}
+div.page24_item1{
+	position: absolute;
+	top: 57px;
+	left: 55px;
+	right: 0px;
+width: 686px;height: 124px;}
+div.page26_item1{
+	position: absolute;
+	top: 58px;
+	left: 55px;
+	right: 0px;
+width: 677px;height: 251px;}
+div.page26_item2{
+	position: absolute;
+	top: 343px;
+	left: 272px;
+	right: 0px;
+width: 305px;height: 55px;}
+
+span.arialp{
+font-family:"arial";
+}
+
+span.italic{
+font-family:"AGaramondPro-Italic";
+}
+
+span.italic1{
+-moz-transform: skewx(-10deg); -o-transform: skewx(-10deg); -webkit-transform: skewx(-10deg); transform: skewx(-10deg); display: inline-block; margin-left:-28px;
+}
+
+span.italic2{
+font-family:"avenirni";
+}
+
+.super { vertical-align:-17px;
+		 font-size:39px;
+		 line-height:0px;
+ }
+
+p.copy{
+	font-size: 13px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 21px;
+	color:white;
+	font-family:"AGaramondPro-Regular";
+}
+
+span.hd{
+font-family:"HVD_Comic_Serif_Pro";
+font-size:23px;
+word-spacing:-3px;
+}
+
+
+p.center{
+	font-size: 26px;
+	line-height: 26px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;	
+	font-family:"KraashBlack";
+}
+
+.media-overlay-active { color:#f00 !important; }
+
+
+span.padding{
+padding-top:40px;
+padding-bottom:40px;
+margin-top:-40px;
+margin-bottom:-40px;
+}
