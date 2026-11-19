@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id162g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="105973ms" clipEnd="106598ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id162">
+      <!-- Sheriff -->
+      <text src="../018.xhtml#w162"/>
+      <audio clipBegin="106598ms" clipEnd="107078ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id163">
+      <!-- tracked -->
+      <text src="../018.xhtml#w163"/>
+      <audio clipBegin="107078ms" clipEnd="107548ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id164">
+      <!-- down -->
+      <text src="../018.xhtml#w164"/>
+      <audio clipBegin="107548ms" clipEnd="107848ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id165">
+      <!-- the -->
+      <text src="../018.xhtml#w165"/>
+      <audio clipBegin="107848ms" clipEnd="107938ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id166">
+      <!-- squad -->
+      <text src="../018.xhtml#w166"/>
+      <audio clipBegin="107938ms" clipEnd="108388ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id167">
+      <!-- cars -->
+      <text src="../018.xhtml#w167"/>
+      <audio clipBegin="108388ms" clipEnd="108918ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id167g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="108918ms" clipEnd="109388ms" src="../audio/9781484728758.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id26g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="27830ms" clipEnd="28425ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- Jeff -->
+      <text src="../005.xhtml#w26"/>
+      <audio clipBegin="28425ms" clipEnd="28745ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- Gorvette -->
+      <text src="../005.xhtml#w27"/>
+      <audio clipBegin="28745ms" clipEnd="29595ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- is -->
+      <text src="../005.xhtml#w28"/>
+      <audio clipBegin="29595ms" clipEnd="29715ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- a -->
+      <text src="../005.xhtml#w29"/>
+      <audio clipBegin="29715ms" clipEnd="29870ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- race -->
+      <text src="../005.xhtml#w30"/>
+      <audio clipBegin="29870ms" clipEnd="30195ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- car -->
+      <text src="../005.xhtml#w31"/>
+      <audio clipBegin="30195ms" clipEnd="30565ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- too -->
+      <text src="../005.xhtml#w32"/>
+      <audio clipBegin="30565ms" clipEnd="31435ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id33">
+      <!-- They -->
+      <text src="../005.xhtml#w33"/>
+      <audio clipBegin="31435ms" clipEnd="31635ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- are -->
+      <text src="../005.xhtml#w34"/>
+      <audio clipBegin="31635ms" clipEnd="31765ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- good -->
+      <text src="../005.xhtml#w35"/>
+      <audio clipBegin="31765ms" clipEnd="32105ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id36">
+      <!-- friends -->
+      <text src="../005.xhtml#w36"/>
+      <audio clipBegin="32105ms" clipEnd="32665ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id36g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="32665ms" clipEnd="33430ms" src="../audio/9781484728789.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="16134ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Disney -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="16134ms" clipEnd="16554ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Pixar -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16554ms" clipEnd="17344ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Cars -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="17344ms" clipEnd="18324ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- The -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="18324ms" clipEnd="18404ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Radiator -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="18404ms" clipEnd="19044ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Springs -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19044ms" clipEnd="19804ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- 500 -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19804ms" clipEnd="20404ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- and -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="20404ms" clipEnd="20494ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- a -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="20494ms" clipEnd="20554ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- half -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="20554ms" clipEnd="21884ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="21884ms" clipEnd="22454ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- by -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="22454ms" clipEnd="22704ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Frank -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="22704ms" clipEnd="23034ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Berrios -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="23034ms" clipEnd="23764ms" src="../audio/9781484728772.m4a"/>
+    </par>
+    <par id="id14g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="23764ms" clipEnd="24956ms" src="../audio/9781484728772.m4a"/>
+    </par>
+  </body>
+</smil>

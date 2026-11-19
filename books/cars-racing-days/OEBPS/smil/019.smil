@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id185g">
+			<!--  -->
+			<text src="../019.xhtml#empty"/>
+			<audio clipBegin="94686ms" clipEnd="95146ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id185">
+			<!-- The -->
+			<text src="../019.xhtml#w185"/>
+			<audio clipBegin="95146ms" clipEnd="95236ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id186">
+			<!-- flag -->
+			<text src="../019.xhtml#w186"/>
+			<audio clipBegin="95236ms" clipEnd="95726ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id187">
+			<!-- drops -->
+			<text src="../019.xhtml#w187"/>
+			<audio clipBegin="95726ms" clipEnd="96806ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id188">
+			<!-- Chick -->
+			<text src="../019.xhtml#w188"/>
+			<audio clipBegin="96806ms" clipEnd="97106ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id189">
+			<!-- and -->
+			<text src="../019.xhtml#w189"/>
+			<audio clipBegin="97106ms" clipEnd="97226ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id190">
+			<!-- Sarge -->
+			<text src="../019.xhtml#w190"/>
+			<audio clipBegin="97226ms" clipEnd="97746ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id191">
+			<!-- take -->
+			<text src="../019.xhtml#w191"/>
+			<audio clipBegin="97746ms" clipEnd="98046ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id192">
+			<!-- off -->
+			<text src="../019.xhtml#w192"/>
+			<audio clipBegin="98046ms" clipEnd="98506ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id192g">
+			<!--  -->
+			<text src="../019.xhtml#empty1"/>
+			<audio clipBegin="98506ms" clipEnd="99326ms" src="../audio/9781368015240.m4a"/>
+		</par>
+	</body>
+</smil>

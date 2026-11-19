@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id316g">
+			<!--  -->
+			<text src="../032.xhtml#empty"/>
+			<audio clipBegin="162581ms" clipEnd="163386ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id316">
+			<!-- Candice -->
+			<text src="../032.xhtml#w316"/>
+			<audio clipBegin="163386ms" clipEnd="163906ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id317">
+			<!-- nears -->
+			<text src="../032.xhtml#w317"/>
+			<audio clipBegin="163906ms" clipEnd="164336ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id318">
+			<!-- the -->
+			<text src="../032.xhtml#w318"/>
+			<audio clipBegin="164336ms" clipEnd="164456ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id319">
+			<!-- finish -->
+			<text src="../032.xhtml#w319"/>
+			<audio clipBegin="164456ms" clipEnd="164926ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id320">
+			<!-- line -->
+			<text src="../032.xhtml#w320"/>
+			<audio clipBegin="164926ms" clipEnd="165716ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id321">
+			<!-- Her -->
+			<text src="../032.xhtml#w321"/>
+			<audio clipBegin="165716ms" clipEnd="165856ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id322">
+			<!-- fans -->
+			<text src="../032.xhtml#w322"/>
+			<audio clipBegin="165856ms" clipEnd="166386ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id323">
+			<!-- take -->
+			<text src="../032.xhtml#w323"/>
+			<audio clipBegin="166386ms" clipEnd="166616ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id324">
+			<!-- pictures -->
+			<text src="../032.xhtml#w324"/>
+			<audio clipBegin="166616ms" clipEnd="167126ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id325">
+			<!-- of -->
+			<text src="../032.xhtml#w325"/>
+			<audio clipBegin="167126ms" clipEnd="167246ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id326">
+			<!-- her -->
+			<text src="../032.xhtml#w326"/>
+			<audio clipBegin="167246ms" clipEnd="167526ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id326g">
+			<!--  -->
+			<text src="../032.xhtml#empty1"/>
+			<audio clipBegin="167526ms" clipEnd="167996ms" src="../audio/9781368015240.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id41g">
+			<!--  -->
+			<text src="../013.xhtml#empty"/>
+			<audio clipBegin="41783ms" clipEnd="42055ms" src="../audio/9781484751886.m4a"/>
+		</par>
+		<par id="id41">
+			<!-- The -->
+			<text src="../013.xhtml#w41"/>
+			<audio clipBegin="42055ms" clipEnd="42175ms" src="../audio/9781484751886.m4a"/>
+		</par>
+		<par id="id42">
+			<!-- first -->
+			<text src="../013.xhtml#w42"/>
+			<audio clipBegin="42175ms" clipEnd="42475ms" src="../audio/9781484751886.m4a"/>
+		</par>
+		<par id="id43">
+			<!-- race -->
+			<text src="../013.xhtml#w43"/>
+			<audio clipBegin="42475ms" clipEnd="43165ms" src="../audio/9781484751886.m4a"/>
+		</par>
+		<par id="id44">
+			<!-- is -->
+			<text src="../013.xhtml#w44"/>
+			<audio clipBegin="43165ms" clipEnd="43555ms" src="../audio/9781484751886.m4a"/>
+		</par>
+		<par id="id45">
+			<!-- in -->
+			<text src="../013.xhtml#w45"/>
+			<audio clipBegin="43555ms" clipEnd="43795ms" src="../audio/9781484751886.m4a"/>
+		</par>
+		<par id="id46">
+			<!-- Japan -->
+			<text src="../013.xhtml#w46"/>
+			<audio clipBegin="43795ms" clipEnd="44705ms" src="../audio/9781484751886.m4a"/>
+		</par>
+		<par id="id46g">
+			<!--  -->
+			<text src="../013.xhtml#empty1"/>
+			<audio clipBegin="44705ms" clipEnd="45820ms" src="../audio/9781484751886.m4a"/>
+		</par>
+	</body>
+</smil>

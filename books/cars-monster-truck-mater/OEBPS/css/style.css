@@ -1,0 +1,263 @@
+@font-face{
+  font-family: "Arial";
+  src: url(../fonts/Arial.ttf);
+}
+@font-face{
+  font-family: "Times_New_Roman_Italic";
+  src: url(../fonts/Times_New_Roman_Italic.ttf);
+}
+@font-face{
+  font-family: "Times_New_Roman";
+  src: url(../fonts/Times_New_Roman.ttf);
+}
+
+@font-face{
+  font-family: "Housearama-Kingpin";
+  src: url(../fonts/Housearama-Kingpin.ttf);
+}
+@font-face{
+  font-family: "Billy";
+  src: url(../fonts/Billy.otf);
+}
+
+img{z-index:-1;}
+
+body {
+	width: 743px;
+	height: 1010px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 743px;
+	height: 1010px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 706px;
+	left: 111px;
+	right: 0px;
+width: 518px;height: 220px;}
+div.page4_item1{
+	position: absolute;
+	top: 62px;
+	left: 109px;
+	right: 0px;
+width: 525px;height: 256px;}
+div.page5_item1{
+	position: absolute;
+	top: 72px;
+	left: 145px;
+	right: 0px;
+width: 482px;height: 129px;}
+div.page7_item1{
+	position: absolute;
+	top: 57px;
+	left: 256px;
+	right: 0px;
+width: 433px;height: 523px;}
+div.page8_item1{
+	position: absolute;
+	top: 718px;
+	left: 120px;
+	right: 0px;
+width: 507px;height: 233px;}
+div.page9_item1{
+	position: absolute;
+	top: 69px;
+	left: 112px;
+	right: 0px;
+width: 533px;height: 240px;}
+div.page10_item1{
+	position: absolute;
+	top: 63px;
+	left: 98px;
+	right: 0px;
+width: 518px;height: 211px;}
+div.page11_item1{
+	position: absolute;
+	top: 687px;
+	left: 264px;
+	right: 0px;
+width: 429px;height: 266px;}
+div.page13_item1{
+	position: absolute;
+	top: 681px;
+	left: 255px;
+	right: 0px;
+width: 438px;height: 274px;}
+div.page14_item1{
+	position: absolute;
+	top: 53px;
+	left: 140px;
+	right: 0px;
+width: 509px;height: 204px;}
+div.page15_item1{
+	position: absolute;
+	top: 56px;
+	left: 121px;
+	right: 0px;
+width: 518px;height: 216px;}
+div.page16_item1{
+	position: absolute;
+	top: 66px;
+	left: 128px;
+	right: 0px;
+width: 517px;height: 200px;}
+div.page17_item1{
+	position: absolute;
+	top: 747px;
+	left: 111px;
+	right: 0px;
+width: 562px;height: 172px;}
+div.page18_item1{
+	position: absolute;
+	top: 783px;
+	left: 124px;
+	right: 0px;
+width: 577px;height: 157px;}
+div.page19_item1{
+	position: absolute;
+	top: 797px;
+	left: 118px;
+	right: 0px;
+width: 578px;height: 143px;}
+div.page20_item1{
+	position: absolute;
+	top: 44px;
+	left: 131px;
+	right: 0px;
+width: 525px;height: 333px;}
+span.big{
+color:#0C6266;
+font-family: "Housearama-Kingpin";
+font-size: 27px;
+line-height: 33px;
+}
+span.big1{
+color:#0C6266;
+font-family: "Housearama-Kingpin";
+font-size: 27px;
+line-height: 33px;
+vertical-align:-10px;
+}
+
+span.big_white{
+color:#ffffff;
+font-family: "Housearama-Kingpin";
+font-size: 27px;
+line-height: 33px;
+}
+
+span.italic{
+font-family: "Times_New_Roman_Italic";
+}
+
+span.dropcaps{
+color:#0C6266;
+font-family: "Housearama-Kingpin";
+font-size: 30px;
+}
+p.indent{
+	word-spacing:-1px;
+	font-family: "Billy";
+	font-size: 23px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 23px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.indent2{
+	font-family: "Billy";
+	font-size: 23px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 23px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.indentw{
+	color:#ffffff;
+	word-spacing:-1px;
+	font-family: "Billy";
+	font-size: 23px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 23px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.indent1{
+	word-spacing:-1px;
+	font-family: "Billy";
+	font-size: 23px;
+	line-height: 29px;
+	text-align: left;
+	text-indent: 23px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.copyright{
+	word-spacing:2px;
+	font-family: "Times_New_Roman";
+	font-size: 11px;
+	line-height: 14px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+
+span.arial{
+font-family: "Arial";
+}
+.media-overlay-active{
+color:#f00 !important;
+padding-top:25px;
+margin-top:-25px;
+padding-left:25px;
+margin-left:-25px;
+}
+
+.media-overlay-active span.big,
+.media-overlay-active span.big_white,
+.media-overlay-active span.dropcaps
+{
+color:#f00 !important; 
+}

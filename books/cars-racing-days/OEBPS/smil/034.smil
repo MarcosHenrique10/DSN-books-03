@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id341g">
+			<!--  -->
+			<text src="../034.xhtml#empty"/>
+			<audio clipBegin="176591ms" clipEnd="177416ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id341">
+			<!-- Lightning -->
+			<text src="../034.xhtml#w341"/>
+			<audio clipBegin="177416ms" clipEnd="178076ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id342">
+			<!-- won -->
+			<text src="../034.xhtml#w342"/>
+			<audio clipBegin="178076ms" clipEnd="178446ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id343">
+			<!-- all -->
+			<text src="../034.xhtml#w343"/>
+			<audio clipBegin="178446ms" clipEnd="178886ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id344">
+			<!-- three -->
+			<text src="../034.xhtml#w344"/>
+			<audio clipBegin="178886ms" clipEnd="179486ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id345">
+			<!-- races -->
+			<text src="../034.xhtml#w345"/>
+			<audio clipBegin="179486ms" clipEnd="180638ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id346">
+			<!-- Doc's -->
+			<text src="../034.xhtml#w346"/>
+			<audio clipBegin="180638ms" clipEnd="180998ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id347">
+			<!-- school -->
+			<text src="../034.xhtml#w347"/>
+			<audio clipBegin="180998ms" clipEnd="181833ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id348">
+			<!-- is -->
+			<text src="../034.xhtml#w348"/>
+			<audio clipBegin="181833ms" clipEnd="182163ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id349">
+			<!-- the -->
+			<text src="../034.xhtml#w349"/>
+			<audio clipBegin="182163ms" clipEnd="182583ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id350">
+			<!-- best -->
+			<text src="../034.xhtml#w350"/>
+			<audio clipBegin="182583ms" clipEnd="182979ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id351">
+			<!-- school -->
+			<text src="../034.xhtml#w351"/>
+			<audio clipBegin="182979ms" clipEnd="184599ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id351g">
+			<!--  -->
+			<text src="../034.xhtml#empty1"/>
+			<audio clipBegin="184599ms" clipEnd="187913ms" src="../audio/9781368015240.m4a"/>
+		</par>
+	</body>
+</smil>

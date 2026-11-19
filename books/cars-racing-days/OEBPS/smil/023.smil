@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id231g">
+			<!--  -->
+			<text src="../023.xhtml#empty"/>
+			<audio clipBegin="117871ms" clipEnd="118296ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id231">
+			<!-- Chick's -->
+			<text src="../023.xhtml#w231"/>
+			<audio clipBegin="118296ms" clipEnd="118666ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id232">
+			<!-- partner -->
+			<text src="../023.xhtml#w232"/>
+			<audio clipBegin="118666ms" clipEnd="119256ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id233">
+			<!-- drives -->
+			<text src="../023.xhtml#w233"/>
+			<audio clipBegin="119256ms" clipEnd="119626ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id234">
+			<!-- the -->
+			<text src="../023.xhtml#w234"/>
+			<audio clipBegin="119626ms" clipEnd="119736ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id235">
+			<!-- wrong -->
+			<text src="../023.xhtml#w235"/>
+			<audio clipBegin="119736ms" clipEnd="120066ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id236">
+			<!-- way -->
+			<text src="../023.xhtml#w236"/>
+			<audio clipBegin="120066ms" clipEnd="120986ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id237">
+			<!-- Lightning -->
+			<text src="../023.xhtml#w237"/>
+			<audio clipBegin="120986ms" clipEnd="121856ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id238">
+			<!-- wins -->
+			<text src="../023.xhtml#w238"/>
+			<audio clipBegin="121856ms" clipEnd="122196ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id239">
+			<!-- the -->
+			<text src="../023.xhtml#w239"/>
+			<audio clipBegin="122196ms" clipEnd="122346ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id240">
+			<!-- race -->
+			<text src="../023.xhtml#w240"/>
+			<audio clipBegin="122346ms" clipEnd="122936ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id240g">
+			<!--  -->
+			<text src="../023.xhtml#empty1"/>
+			<audio clipBegin="122936ms" clipEnd="123761ms" src="../audio/9781368015240.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id257g">
+			<!--  -->
+			<text src="../025.xhtml#empty"/>
+			<audio clipBegin="131391ms" clipEnd="131806ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id257">
+			<!-- Candice -->
+			<text src="../025.xhtml#w257"/>
+			<audio clipBegin="131806ms" clipEnd="132376ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id258">
+			<!-- likes -->
+			<text src="../025.xhtml#w258"/>
+			<audio clipBegin="132376ms" clipEnd="132786ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id259">
+			<!-- being -->
+			<text src="../025.xhtml#w259"/>
+			<audio clipBegin="132786ms" clipEnd="133276ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id260">
+			<!-- famous -->
+			<text src="../025.xhtml#w260"/>
+			<audio clipBegin="133276ms" clipEnd="134436ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id261">
+			<!-- She -->
+			<text src="../025.xhtml#w261"/>
+			<audio clipBegin="134436ms" clipEnd="134616ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id262">
+			<!-- likes -->
+			<text src="../025.xhtml#w262"/>
+			<audio clipBegin="134616ms" clipEnd="135036ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id263">
+			<!-- having -->
+			<text src="../025.xhtml#w263"/>
+			<audio clipBegin="135036ms" clipEnd="135336ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id264">
+			<!-- her -->
+			<text src="../025.xhtml#w264"/>
+			<audio clipBegin="135336ms" clipEnd="135496ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id265">
+			<!-- picture -->
+			<text src="../025.xhtml#w265"/>
+			<audio clipBegin="135496ms" clipEnd="135996ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id266">
+			<!-- taken -->
+			<text src="../025.xhtml#w266"/>
+			<audio clipBegin="135996ms" clipEnd="136536ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id266g">
+			<!--  -->
+			<text src="../025.xhtml#empty1"/>
+			<audio clipBegin="136536ms" clipEnd="137366ms" src="../audio/9781368015240.m4a"/>
+		</par>
+	</body>
+</smil>

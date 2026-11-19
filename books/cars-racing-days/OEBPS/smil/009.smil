@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id51g">
+			<!--  -->
+			<text src="../009.xhtml#empty"/>
+			<audio clipBegin="29062ms" clipEnd="29266ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id51">
+			<!-- Chick -->
+			<text src="../009.xhtml#w51"/>
+			<audio clipBegin="29266ms" clipEnd="29716ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id52">
+			<!-- Hicks -->
+			<text src="../009.xhtml#w52"/>
+			<audio clipBegin="29716ms" clipEnd="30056ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id53">
+			<!-- has -->
+			<text src="../009.xhtml#w53"/>
+			<audio clipBegin="30056ms" clipEnd="30276ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id54">
+			<!-- a -->
+			<text src="../009.xhtml#w54"/>
+			<audio clipBegin="30276ms" clipEnd="30326ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id55">
+			<!-- racing -->
+			<text src="../009.xhtml#w55"/>
+			<audio clipBegin="30326ms" clipEnd="30776ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id56">
+			<!-- school -->
+			<text src="../009.xhtml#w56"/>
+			<audio clipBegin="30776ms" clipEnd="31216ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id57">
+			<!-- too -->
+			<text src="../009.xhtml#w57"/>
+			<audio clipBegin="31216ms" clipEnd="32146ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id58">
+			<!-- He -->
+			<text src="../009.xhtml#w58"/>
+			<audio clipBegin="32146ms" clipEnd="32316ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id59">
+			<!-- teaches -->
+			<text src="../009.xhtml#w59"/>
+			<audio clipBegin="32316ms" clipEnd="32826ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id60">
+			<!-- his -->
+			<text src="../009.xhtml#w60"/>
+			<audio clipBegin="32826ms" clipEnd="33116ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id61">
+			<!-- students -->
+			<text src="../009.xhtml#w61"/>
+			<audio clipBegin="33116ms" clipEnd="33596ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id62">
+			<!-- how -->
+			<text src="../009.xhtml#w62"/>
+			<audio clipBegin="33596ms" clipEnd="33976ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id63">
+			<!-- to -->
+			<text src="../009.xhtml#w63"/>
+			<audio clipBegin="33976ms" clipEnd="34336ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id64">
+			<!-- cheat -->
+			<text src="../009.xhtml#w64"/>
+			<audio clipBegin="34336ms" clipEnd="35056ms" src="../audio/9781368015240.m4a"/>
+		</par>
+		<par id="id64g">
+			<!--  -->
+			<text src="../009.xhtml#empty1"/>
+			<audio clipBegin="35056ms" clipEnd="35901ms" src="../audio/9781368015240.m4a"/>
+		</par>
+	</body>
+</smil>

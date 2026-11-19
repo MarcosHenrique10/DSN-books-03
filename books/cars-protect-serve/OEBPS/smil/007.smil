@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id48g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="41358ms" clipEnd="41998ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id48">
+      <!-- The -->
+      <text src="../007.xhtml#w48"/>
+      <audio clipBegin="41998ms" clipEnd="42068ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id49">
+      <!-- squad -->
+      <text src="../007.xhtml#w49"/>
+      <audio clipBegin="42068ms" clipEnd="42498ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id50">
+      <!-- cars -->
+      <text src="../007.xhtml#w50"/>
+      <audio clipBegin="42498ms" clipEnd="42858ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id51">
+      <!-- spotted -->
+      <text src="../007.xhtml#w51"/>
+      <audio clipBegin="42858ms" clipEnd="43638ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id52">
+      <!-- Lightning -->
+      <text src="../007.xhtml#w52"/>
+      <audio clipBegin="43638ms" clipEnd="44208ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id53">
+      <!-- McQueen -->
+      <text src="../007.xhtml#w53"/>
+      <audio clipBegin="44208ms" clipEnd="45598ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id54">
+      <!-- He -->
+      <text src="../007.xhtml#w54"/>
+      <audio clipBegin="45598ms" clipEnd="45788ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id55">
+      <!-- was -->
+      <text src="../007.xhtml#w55"/>
+      <audio clipBegin="45788ms" clipEnd="46018ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id56">
+      <!-- driving -->
+      <text src="../007.xhtml#w56"/>
+      <audio clipBegin="46018ms" clipEnd="46398ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id57">
+      <!-- too -->
+      <text src="../007.xhtml#w57"/>
+      <audio clipBegin="46398ms" clipEnd="46698ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id58">
+      <!-- fast -->
+      <text src="../007.xhtml#w58"/>
+      <audio clipBegin="46698ms" clipEnd="47298ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id58g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="47298ms" clipEnd="48261ms" src="../audio/9781484728758.m4a"/>
+    </par>
+  </body>
+</smil>

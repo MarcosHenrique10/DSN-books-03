@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id104g">
+      <!--  -->
+      <text src="../012.xhtml#empty"/>
+      <audio clipBegin="64077ms" clipEnd="64995ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id104">
+      <!-- The -->
+      <text src="../012.xhtml#w104"/>
+      <audio clipBegin="64995ms" clipEnd="65075ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id105">
+      <!-- cars -->
+      <text src="../012.xhtml#w105"/>
+      <audio clipBegin="65075ms" clipEnd="65625ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id106">
+      <!-- line -->
+      <text src="../012.xhtml#w106"/>
+      <audio clipBegin="65625ms" clipEnd="65995ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id107">
+      <!-- up -->
+      <text src="../012.xhtml#w107"/>
+      <audio clipBegin="65995ms" clipEnd="66845ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id108">
+      <!-- Lightning -->
+      <text src="../012.xhtml#w108"/>
+      <audio clipBegin="66845ms" clipEnd="67435ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id109">
+      <!-- and -->
+      <text src="../012.xhtml#w109"/>
+      <audio clipBegin="67435ms" clipEnd="67585ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id110">
+      <!-- Francesco -->
+      <text src="../012.xhtml#w110"/>
+      <audio clipBegin="67585ms" clipEnd="68545ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id111">
+      <!-- are -->
+      <text src="../012.xhtml#w111"/>
+      <audio clipBegin="68545ms" clipEnd="68755ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id112">
+      <!-- ready -->
+      <text src="../012.xhtml#w112"/>
+      <audio clipBegin="68755ms" clipEnd="69145ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id112g">
+      <!--  -->
+      <text src="../012.xhtml#empty"/>
+      <audio clipBegin="69145ms" clipEnd="69760ms" src="../audio/9781484728789.m4a"/>
+    </par>
+  </body>
+</smil>

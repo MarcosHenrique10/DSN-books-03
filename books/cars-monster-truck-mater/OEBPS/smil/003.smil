@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="10295ms" src="../audio/9781484751558.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Cars -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="10295ms" clipEnd="11305ms" src="../audio/9781484751558.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Toon -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="11305ms" clipEnd="12445ms" src="../audio/9781484751558.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Monster -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="12445ms" clipEnd="13095ms" src="../audio/9781484751558.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Truck -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="13095ms" clipEnd="13505ms" src="../audio/9781484751558.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Mater -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="13505ms" clipEnd="14075ms" src="../audio/9781484751558.m4a"/>
+    </par>
+    <par id="id5g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="14075ms" clipEnd="15040ms" src="../audio/9781484751558.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="14115ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="14115ms" clipEnd="14665ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="14665ms" clipEnd="14825ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Ruth -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="14825ms" clipEnd="15115ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Homberg -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="15115ms" clipEnd="16505ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Based -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="16505ms" clipEnd="16835ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- on -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="16835ms" clipEnd="16985ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- the -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="16985ms" clipEnd="17102ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- original -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="17102ms" clipEnd="17525ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- story -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="17525ms" clipEnd="18055ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- by -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="18055ms" clipEnd="18395ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Annie -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="18395ms" clipEnd="18745ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Auerbach -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="18745ms" clipEnd="20085ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="20085ms" clipEnd="20765ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- by -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="20765ms" clipEnd="20915ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- the -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="20915ms" clipEnd="20995ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Disney -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="20995ms" clipEnd="21475ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="21475ms" clipEnd="22195ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Art -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="22195ms" clipEnd="22386ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- Team -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="22386ms" clipEnd="22775ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id19g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="22775ms" clipEnd="23611ms" src="../audio/9781484728789.m4a"/>
+    </par>
+  </body>
+</smil>

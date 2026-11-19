@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id20g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="23611ms" clipEnd="24605ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- Lightning -->
+      <text src="../004.xhtml#w20"/>
+      <audio clipBegin="24605ms" clipEnd="25085ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- McQueen -->
+      <text src="../004.xhtml#w21"/>
+      <audio clipBegin="25085ms" clipEnd="26145ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- is -->
+      <text src="../004.xhtml#w22"/>
+      <audio clipBegin="26145ms" clipEnd="26305ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- a -->
+      <text src="../004.xhtml#w23"/>
+      <audio clipBegin="26305ms" clipEnd="26532ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- race -->
+      <text src="../004.xhtml#w24"/>
+      <audio clipBegin="26532ms" clipEnd="26875ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- car -->
+      <text src="../004.xhtml#w25"/>
+      <audio clipBegin="26875ms" clipEnd="27235ms" src="../audio/9781484728789.m4a"/>
+    </par>
+    <par id="id25g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="27235ms" clipEnd="27830ms" src="../audio/9781484728789.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,145 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/Arial.otf);
+}
+@font-face {
+	font-family:"gill-sans-tt-regular";
+	src: url(../fonts/GillSans.otf);
+}
+@font-face {
+	font-family:"bernhardgothicsg-ultra";
+	src: url(../fonts/BernhGotSGUlt.otf);
+}
+
+
+.font-1 {
+	font-family:"gill-sans-tt-regular";
+	font-size:10px;
+	color:#999;
+}
+.font-2 {
+	font-family:"gill-sans-mt-italic";
+	font-size:11px;
+	line-height:13px;
+}
+.font-3 {
+	font-family:"arial-regular";
+	font-size:12px;
+	line-height:13px;
+}
+.font-4 {
+	font-family:"gill-sans-tt-regular";
+	font-size:17px;
+	line-height:24px;
+	color:#FFF;	
+	-webkit-text-stroke-width: 0px;
+	-webkit-text-stroke-color: white;	
+}
+.font-4a {
+	font-family:"gill-sans-tt-regular";
+	font-size:17px;
+	line-height:24px;
+	color:#FFF;	
+	-webkit-text-stroke-width: 0px;
+	-webkit-text-stroke-color: white;	
+}
+.font-4a span.media-overlay-active {color: #e2b01f !important;}
+
+.font-5 {
+	font-family:"bernhardgothicsg-ultra";
+	font-size:21px;
+	line-height:0px;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: white;	
+}
+.font-5a {
+	font-family:"bernhardgothicsg-ultra";
+	font-size:21px;
+	line-height:0px;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: white;
+	color:#ef462e;
+}
+.font-5a span.media-overlay-active {color: #e2b01f !important;}
+
+.font-6 {
+	font-family:"gill-sans-tt-regular";
+	font-size:15px;
+	line-height:21px;
+	color:#FFF;	
+}
+.font-6a {
+	font-family:"gill-sans-tt-regular";
+	font-size:15px;
+	line-height:21px;
+	color:#FFF;
+}
+.font-6a span.media-overlay-active {color: #e2b01f !important;}
+
+.font-7 {
+	font-family:"arial-regular";
+	font-size:9px;
+	color:#FFF;
+}
+
+
+.c1 {color:#ef462e}
+.media-overlay-active .c1
+	{ color:#7092ff !important; fill:#7092ff !important;}
+.c2 {color:#fff}
+.media-overlay-active .c2
+	{ color:#7092ff !important; fill:#7092ff !important;}
+.c3 {color:#fff}
+.media-overlay-active .c3
+	{ color:#e2b01f !important; fill:#e2b01f !important;}	
+
+
+
+
+
+.hi-li {display: none;}
+.hi-li.media-overlay-active {display: block !important;}
+
+
+
+.lh1 {
+	line-height:11px !important;
+}
+.m1{ 
+	margin-bottom:14px !important;
+}
+.m2{
+	margin-bottom:15px !important;
+}
+.m3 {
+	margin-left:-2px !important;
+}
+.m4 {
+	margin-right:-4px !important;
+}
+.m5 {
+	margin-right:-5px !important;
+}
+
+
+	
+
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#7092ff !important; } /* For audio books */
+.page, .page img { width:738px; height:814px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:814px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:738px; height:814px; position:relative; background-size:100% 100% !important; left:25%; }
+/*span { color:#f6f !important; }*/

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id151g">
+      <!--  -->
+      <text src="../017.xhtml#empty"/>
+      <audio clipBegin="100318ms" clipEnd="100879ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id151">
+      <!-- The -->
+      <text src="../017.xhtml#w151"/>
+      <audio clipBegin="100879ms" clipEnd="100948ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id152">
+      <!-- squad -->
+      <text src="../017.xhtml#w152"/>
+      <audio clipBegin="100948ms" clipEnd="101408ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id153">
+      <!-- cars -->
+      <text src="../017.xhtml#w153"/>
+      <audio clipBegin="101408ms" clipEnd="101808ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id154">
+      <!-- had -->
+      <text src="../017.xhtml#w154"/>
+      <audio clipBegin="101808ms" clipEnd="102088ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id155">
+      <!-- even -->
+      <text src="../017.xhtml#w155"/>
+      <audio clipBegin="102088ms" clipEnd="102408ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id156">
+      <!-- made -->
+      <text src="../017.xhtml#w156"/>
+      <audio clipBegin="102408ms" clipEnd="102708ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id157">
+      <!-- Lightning -->
+      <text src="../017.xhtml#w157"/>
+      <audio clipBegin="102708ms" clipEnd="103298ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id158">
+      <!-- go -->
+      <text src="../017.xhtml#w158"/>
+      <audio clipBegin="103298ms" clipEnd="103618ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id159">
+      <!-- to -->
+      <text src="../017.xhtml#w159"/>
+      <audio clipBegin="103618ms" clipEnd="103808ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id160">
+      <!-- driving -->
+      <text src="../017.xhtml#w160"/>
+      <audio clipBegin="103808ms" clipEnd="104328ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id161">
+      <!-- school -->
+      <text src="../017.xhtml#w161"/>
+      <audio clipBegin="104328ms" clipEnd="104778ms" src="../audio/9781484728758.m4a"/>
+    </par>
+    <par id="id161g">
+      <!--  -->
+      <text src="../017.xhtml#empty"/>
+      <audio clipBegin="104778ms" clipEnd="105973ms" src="../audio/9781484728758.m4a"/>
+    </par>
+  </body>
+</smil>
