@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id26g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="32221ms" clipEnd="32485ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id26">
+			<!-- Spies -->
+			<text src="../006.xhtml#w26"/>
+			<audio clipBegin="32485ms" clipEnd="33515ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- have -->
+			<text src="../006.xhtml#w27"/>
+			<audio clipBegin="33515ms" clipEnd="33765ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- secret -->
+			<text src="../006.xhtml#w28"/>
+			<audio clipBegin="33765ms" clipEnd="34605ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- meetings -->
+			<text src="../006.xhtml#w29"/>
+			<audio clipBegin="34605ms" clipEnd="35605ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id29g">
+			<!--  -->
+			<text src="../006.xhtml#empty1"/>
+			<audio clipBegin="35605ms" clipEnd="35884ms" src="../audio/9781484751909.m4a"/>
+		</par>
+	</body>
+</smil>

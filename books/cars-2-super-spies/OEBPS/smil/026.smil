@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id224g">
+			<!--  -->
+			<text src="../026.xhtml#empty"/>
+			<audio clipBegin="156225ms" clipEnd="157285ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id224">
+			<!-- Holley -->
+			<text src="../026.xhtml#w224"/>
+			<audio clipBegin="157285ms" clipEnd="157625ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id225">
+			<!-- escapes -->
+			<text src="../026.xhtml#w225"/>
+			<audio clipBegin="157625ms" clipEnd="158285ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id226">
+			<!-- too -->
+			<text src="../026.xhtml#w226"/>
+			<audio clipBegin="158285ms" clipEnd="159375ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id227">
+			<!-- She -->
+			<text src="../026.xhtml#w227"/>
+			<audio clipBegin="159375ms" clipEnd="159655ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id228">
+			<!-- fights -->
+			<text src="../026.xhtml#w228"/>
+			<audio clipBegin="159655ms" clipEnd="160255ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id229">
+			<!-- the -->
+			<text src="../026.xhtml#w229"/>
+			<audio clipBegin="160255ms" clipEnd="160385ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id230">
+			<!-- bad -->
+			<text src="../026.xhtml#w230"/>
+			<audio clipBegin="160385ms" clipEnd="160725ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id231">
+			<!-- cars -->
+			<text src="../026.xhtml#w231"/>
+			<audio clipBegin="160725ms" clipEnd="161485ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id231g">
+			<!--  -->
+			<text src="../026.xhtml#empty1"/>
+			<audio clipBegin="161485ms" clipEnd="162110ms" src="../audio/9781484751893.m4a"/>
+		</par>
+	</body>
+</smil>

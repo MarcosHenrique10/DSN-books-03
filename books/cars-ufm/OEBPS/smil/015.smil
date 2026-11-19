@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id479g">
+      <!--  -->
+      <text src="../015.xhtml#empty"/>
+      <audio clipBegin="260460ms" clipEnd="261015ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id479">
+      <!-- Several -->
+      <text src="../015.xhtml#w479"/>
+      <audio clipBegin="261015ms" clipEnd="261515ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id480">
+      <!-- military -->
+      <text src="../015.xhtml#w480"/>
+      <audio clipBegin="261515ms" clipEnd="262355ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id481">
+      <!-- and -->
+      <text src="../015.xhtml#w481"/>
+      <audio clipBegin="262355ms" clipEnd="262465ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id482">
+      <!-- science -->
+      <text src="../015.xhtml#w482"/>
+      <audio clipBegin="262465ms" clipEnd="263055ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id483">
+      <!-- vehicles -->
+      <text src="../015.xhtml#w483"/>
+      <audio clipBegin="263055ms" clipEnd="263595ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id484">
+      <!-- were -->
+      <text src="../015.xhtml#w484"/>
+      <audio clipBegin="263595ms" clipEnd="263715ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id485">
+      <!-- closely -->
+      <text src="../015.xhtml#w485"/>
+      <audio clipBegin="263715ms" clipEnd="264345ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id486">
+      <!-- examining -->
+      <text src="../015.xhtml#w486"/>
+      <audio clipBegin="264345ms" clipEnd="265025ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id487">
+      <!-- the -->
+      <text src="../015.xhtml#w487"/>
+      <audio clipBegin="265025ms" clipEnd="265105ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id488">
+      <!-- UFO -->
+      <text src="../015.xhtml#w488"/>
+      <audio clipBegin="265105ms" clipEnd="266525ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id489">
+      <!-- A -->
+      <text src="../015.xhtml#w489"/>
+      <audio clipBegin="266525ms" clipEnd="266615ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id490">
+      <!-- scientist -->
+      <text src="../015.xhtml#w490"/>
+      <audio clipBegin="266615ms" clipEnd="267335ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id491">
+      <!-- snapped -->
+      <text src="../015.xhtml#w491"/>
+      <audio clipBegin="267335ms" clipEnd="267655ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id492">
+      <!-- a -->
+      <text src="../015.xhtml#w492"/>
+      <audio clipBegin="267655ms" clipEnd="267735ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id493">
+      <!-- photo -->
+      <text src="../015.xhtml#w493"/>
+      <audio clipBegin="267735ms" clipEnd="268155ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id494">
+      <!-- of -->
+      <text src="../015.xhtml#w494"/>
+      <audio clipBegin="268155ms" clipEnd="268325ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id495">
+      <!-- Mator -->
+      <text src="../015.xhtml#w495"/>
+      <audio clipBegin="268325ms" clipEnd="268805ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id496">
+      <!-- using -->
+      <text src="../015.xhtml#w496"/>
+      <audio clipBegin="268805ms" clipEnd="269225ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id497">
+      <!-- a -->
+      <text src="../015.xhtml#w497"/>
+      <audio clipBegin="269225ms" clipEnd="269315ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id498">
+      <!-- bright -->
+      <text src="../015.xhtml#w498"/>
+      <audio clipBegin="269315ms" clipEnd="269765ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id499">
+      <!-- flash -->
+      <text src="../015.xhtml#w499"/>
+      <audio clipBegin="269765ms" clipEnd="271175ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id500">
+      <!-- Dadgum -->
+      <text src="../015.xhtml#w500"/>
+      <audio clipBegin="271175ms" clipEnd="272585ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id501">
+      <!-- the -->
+      <text src="../015.xhtml#w501"/>
+      <audio clipBegin="272585ms" clipEnd="272685ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id502">
+      <!-- UFO -->
+      <text src="../015.xhtml#w502"/>
+      <audio clipBegin="272685ms" clipEnd="273185ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id503">
+      <!-- exclaimed -->
+      <text src="../015.xhtml#w503"/>
+      <audio clipBegin="273185ms" clipEnd="273945ms" src="../audio/9781484751589.m4a"/>
+    </par>
+    <par id="id503g">
+      <!--  -->
+      <text src="../015.xhtml#empty1"/>
+      <audio clipBegin="273945ms" clipEnd="275052ms" src="../audio/9781484751589.m4a"/>
+    </par>
+  </body>
+</smil>

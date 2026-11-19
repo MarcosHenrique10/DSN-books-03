@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id416g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="216262ms" clipEnd="217322ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id416">
+			<!-- The -->
+			<text src="../016.xhtml#w416"/>
+			<audio clipBegin="217322ms" clipEnd="217402ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id417">
+			<!-- next -->
+			<text src="../016.xhtml#w417"/>
+			<audio clipBegin="217402ms" clipEnd="217692ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id418">
+			<!-- day -->
+			<text src="../016.xhtml#w418"/>
+			<audio clipBegin="217692ms" clipEnd="218092ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id419">
+			<!-- was -->
+			<text src="../016.xhtml#w419"/>
+			<audio clipBegin="218092ms" clipEnd="218392ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id420">
+			<!-- the -->
+			<text src="../016.xhtml#w420"/>
+			<audio clipBegin="218392ms" clipEnd="218492ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id421">
+			<!-- Italy -->
+			<text src="../016.xhtml#w421"/>
+			<audio clipBegin="218492ms" clipEnd="218922ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id422">
+			<!-- race -->
+			<text src="../016.xhtml#w422"/>
+			<audio clipBegin="218922ms" clipEnd="220102ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id423">
+			<!-- Lightning -->
+			<text src="../016.xhtml#w423"/>
+			<audio clipBegin="220102ms" clipEnd="220682ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id424">
+			<!-- Francesco -->
+			<text src="../016.xhtml#w424"/>
+			<audio clipBegin="220682ms" clipEnd="221552ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id425">
+			<!-- and -->
+			<text src="../016.xhtml#w425"/>
+			<audio clipBegin="221552ms" clipEnd="221662ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id426">
+			<!-- the -->
+			<text src="../016.xhtml#w426"/>
+			<audio clipBegin="221662ms" clipEnd="221742ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id427">
+			<!-- other -->
+			<text src="../016.xhtml#w427"/>
+			<audio clipBegin="221742ms" clipEnd="221962ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id428">
+			<!-- race -->
+			<text src="../016.xhtml#w428"/>
+			<audio clipBegin="221962ms" clipEnd="222232ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id429">
+			<!-- cars -->
+			<text src="../016.xhtml#w429"/>
+			<audio clipBegin="222232ms" clipEnd="222692ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id430">
+			<!-- chased -->
+			<text src="../016.xhtml#w430"/>
+			<audio clipBegin="222692ms" clipEnd="223122ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id431">
+			<!-- each -->
+			<text src="../016.xhtml#w431"/>
+			<audio clipBegin="223122ms" clipEnd="223342ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id432">
+			<!-- other -->
+			<text src="../016.xhtml#w432"/>
+			<audio clipBegin="223342ms" clipEnd="223642ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id433">
+			<!-- through -->
+			<text src="../016.xhtml#w433"/>
+			<audio clipBegin="223642ms" clipEnd="223952ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id434">
+			<!-- the -->
+			<text src="../016.xhtml#w434"/>
+			<audio clipBegin="223952ms" clipEnd="224062ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id435">
+			<!-- winding -->
+			<text src="../016.xhtml#w435"/>
+			<audio clipBegin="224062ms" clipEnd="224712ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id436">
+			<!-- streets -->
+			<text src="../016.xhtml#w436"/>
+			<audio clipBegin="224712ms" clipEnd="225212ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id437">
+			<!-- of -->
+			<text src="../016.xhtml#w437"/>
+			<audio clipBegin="225212ms" clipEnd="225422ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id438">
+			<!-- Porto -->
+			<text src="../016.xhtml#w438"/>
+			<audio clipBegin="225422ms" clipEnd="225722ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id439">
+			<!-- Corsa -->
+			<text src="../016.xhtml#w439"/>
+			<audio clipBegin="225722ms" clipEnd="226222ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id439g">
+			<!--  -->
+			<text src="../016.xhtml#empty1"/>
+			<audio clipBegin="226222ms" clipEnd="226807ms" src="../audio/9781484756416.m4a"/>
+		</par>
+	</body>
+</smil>

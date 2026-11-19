@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id73g">
+			<!--  -->
+			<text src="../009.xhtml#empty"/>
+			<audio clipBegin="57445ms" clipEnd="58165ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id73">
+			<!-- Mater -->
+			<text src="../009.xhtml#w73"/>
+			<audio clipBegin="58165ms" clipEnd="58715ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id74">
+			<!-- sees -->
+			<text src="../009.xhtml#w74"/>
+			<audio clipBegin="58715ms" clipEnd="59285ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id75">
+			<!-- the -->
+			<text src="../009.xhtml#w75"/>
+			<audio clipBegin="59285ms" clipEnd="59455ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id76">
+			<!-- bad -->
+			<text src="../009.xhtml#w76"/>
+			<audio clipBegin="59455ms" clipEnd="59975ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id77">
+			<!-- cars -->
+			<text src="../009.xhtml#w77"/>
+			<audio clipBegin="59975ms" clipEnd="61215ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id78">
+			<!-- Finn -->
+			<text src="../009.xhtml#w78"/>
+			<audio clipBegin="61215ms" clipEnd="61915ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id79">
+			<!-- fights -->
+			<text src="../009.xhtml#w79"/>
+			<audio clipBegin="61915ms" clipEnd="62305ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id80">
+			<!-- them -->
+			<text src="../009.xhtml#w80"/>
+			<audio clipBegin="62305ms" clipEnd="62705ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id80g">
+			<!--  -->
+			<text src="../009.xhtml#empty1"/>
+			<audio clipBegin="62705ms" clipEnd="63815ms" src="../audio/9781484751893.m4a"/>
+		</par>
+	</body>
+</smil>

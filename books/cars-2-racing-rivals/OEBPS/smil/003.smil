@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="12495ms" src="../audio/9781484751916.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- By -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="12495ms" clipEnd="12775ms" src="../audio/9781484751916.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Evan -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="12775ms" clipEnd="13025ms" src="../audio/9781484751916.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Shine -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="13025ms" clipEnd="13795ms" src="../audio/9781484751916.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="13795ms" clipEnd="14435ms" src="../audio/9781484751916.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- by -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="14435ms" clipEnd="14645ms" src="../audio/9781484751916.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Josh -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="14645ms" clipEnd="15035ms" src="../audio/9781484751916.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Holtsclaw -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="15035ms" clipEnd="15805ms" src="../audio/9781484751916.m4a"/>
+		</par>
+		<par id="id7g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="15805ms" clipEnd="16063ms" src="../audio/9781484751916.m4a"/>
+		</par>
+	</body>
+</smil>

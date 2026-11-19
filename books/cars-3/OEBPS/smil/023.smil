@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id666g">
+			<!--  -->
+			<text src="../023.xhtml#empty"/>
+			<audio clipBegin="337361ms" clipEnd="337886ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id666">
+			<!-- Cruz -->
+			<text src="../023.xhtml#w666"/>
+			<audio clipBegin="337886ms" clipEnd="338276ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id667">
+			<!-- was -->
+			<text src="../023.xhtml#w667"/>
+			<audio clipBegin="338276ms" clipEnd="338416ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id668">
+			<!-- nervous -->
+			<text src="../023.xhtml#w668"/>
+			<audio clipBegin="338416ms" clipEnd="338856ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id669">
+			<!-- at -->
+			<text src="../023.xhtml#w669"/>
+			<audio clipBegin="338856ms" clipEnd="338966ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id670">
+			<!-- first -->
+			<text src="../023.xhtml#w670"/>
+			<audio clipBegin="338966ms" clipEnd="339616ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id671">
+			<!-- but -->
+			<text src="../023.xhtml#w671"/>
+			<audio clipBegin="339616ms" clipEnd="339796ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id672">
+			<!-- Lightning -->
+			<text src="../023.xhtml#w672"/>
+			<audio clipBegin="339796ms" clipEnd="340246ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id673">
+			<!-- supported -->
+			<text src="../023.xhtml#w673"/>
+			<audio clipBegin="340246ms" clipEnd="340866ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id674">
+			<!-- her -->
+			<text src="../023.xhtml#w674"/>
+			<audio clipBegin="340866ms" clipEnd="341056ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id675">
+			<!-- from -->
+			<text src="../023.xhtml#w675"/>
+			<audio clipBegin="341056ms" clipEnd="341236ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id676">
+			<!-- the -->
+			<text src="../023.xhtml#w676"/>
+			<audio clipBegin="341236ms" clipEnd="341296ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id677">
+			<!-- crew -->
+			<text src="../023.xhtml#w677"/>
+			<audio clipBegin="341296ms" clipEnd="341646ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id678">
+			<!-- chief -->
+			<text src="../023.xhtml#w678"/>
+			<audio clipBegin="341646ms" clipEnd="341936ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id679">
+			<!-- stand -->
+			<text src="../023.xhtml#w679"/>
+			<audio clipBegin="341936ms" clipEnd="343015ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id680">
+			<!-- She -->
+			<text src="../023.xhtml#w680"/>
+			<audio clipBegin="343015ms" clipEnd="343286ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id681">
+			<!-- quickly -->
+			<text src="../023.xhtml#w681"/>
+			<audio clipBegin="343286ms" clipEnd="343836ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id682">
+			<!-- sped -->
+			<text src="../023.xhtml#w682"/>
+			<audio clipBegin="343836ms" clipEnd="344486ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id683">
+			<!-- past -->
+			<text src="../023.xhtml#w683"/>
+			<audio clipBegin="344486ms" clipEnd="344956ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id684">
+			<!-- the -->
+			<text src="../023.xhtml#w684"/>
+			<audio clipBegin="344956ms" clipEnd="345126ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id685">
+			<!-- other -->
+			<text src="../023.xhtml#w685"/>
+			<audio clipBegin="345126ms" clipEnd="345376ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id686">
+			<!-- racers -->
+			<text src="../023.xhtml#w686"/>
+			<audio clipBegin="345376ms" clipEnd="346076ms" src="../audio/9781368000604.m4a"/>
+		</par>
+		<par id="id686g">
+			<!--  -->
+			<text src="../023.xhtml#empty1"/>
+			<audio clipBegin="346076ms" clipEnd="347126ms" src="../audio/9781368000604.m4a"/>
+		</par>
+	</body>
+</smil>

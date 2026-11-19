@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id30g">
+			<!--  -->
+			<text src="../008.xhtml#empty"/>
+			<audio clipBegin="37556ms" clipEnd="37835ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- Spies -->
+			<text src="../008.xhtml#w30"/>
+			<audio clipBegin="37835ms" clipEnd="38675ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id31">
+			<!-- fight -->
+			<text src="../008.xhtml#w31"/>
+			<audio clipBegin="38675ms" clipEnd="38845ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id32">
+			<!-- bad -->
+			<text src="../008.xhtml#w32"/>
+			<audio clipBegin="38845ms" clipEnd="39285ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id33">
+			<!-- cars -->
+			<text src="../008.xhtml#w33"/>
+			<audio clipBegin="39285ms" clipEnd="40275ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id34">
+			<!-- Hi -->
+			<text src="../008.xhtml#w34"/>
+			<audio clipBegin="40275ms" clipEnd="40425ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id35">
+			<!-- ya -->
+			<text src="../008.xhtml#w35"/>
+			<audio clipBegin="40425ms" clipEnd="40955ms" src="../audio/9781484751909.m4a"/>
+		</par>
+		<par id="id35g">
+			<!--  -->
+			<text src="../008.xhtml#empty1"/>
+			<audio clipBegin="40955ms" clipEnd="41121ms" src="../audio/9781484751909.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="12026ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="12026ms" clipEnd="12556ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- by -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="12556ms" clipEnd="12816ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Chase -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="12816ms" clipEnd="13326ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Wheeler -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="13326ms" clipEnd="14326ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="14326ms" clipEnd="14946ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- by -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="14946ms" clipEnd="15196ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Studio -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="15196ms" clipEnd="15786ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- IBOIX -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="15786ms" clipEnd="17236ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Designed -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="17236ms" clipEnd="17816ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- by -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="17816ms" clipEnd="18086ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Tony -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="18086ms" clipEnd="18576ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Fejeran -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="18576ms" clipEnd="19186ms" src="../audio/9781484756416.m4a"/>
+		</par>
+		<par id="id12g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="19186ms" clipEnd="19443ms" src="../audio/9781484756416.m4a"/>
+		</par>
+	</body>
+</smil>

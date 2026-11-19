@@ -1,0 +1,511 @@
+img{z-index:-1;}body {
+	width: 908px;
+	height: 1096px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 908px;
+	height: 1096px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 778px;
+	left: 0px;
+	right: 0px;
+}
+div.page3_item1{
+	position: absolute;
+	top: 804px;
+	left: 165px;
+	right: 0px;
+width: 193px;height: 66px;}
+div.page3_item2{
+	position: absolute;
+	top: 804px;
+	left: 412px;
+	right: 0px;
+width: 139px;height: 70px;}
+div.page3_item3{
+	position: absolute;
+	top: 804px;
+	left: 617px;
+	right: 0px;
+width: 160px;height: 80px;}
+div.page3_item4{
+	position: absolute;
+	top: 983px;
+	left: 353px;
+	right: 0px;
+width: 224px;height: 43px;}
+div.page5_item1{
+	position: absolute;
+	top: 71px;
+	left: 429px;
+	right: 0px;
+width: 422px;height: 198px;}
+div.page6_item1{
+	position: absolute;
+	top: 149px;
+	left: 456px;
+	right: 0px;
+width: 332px;height: 151px;}
+div.page7_item1{
+	position: absolute;
+	top: 632px;
+	left: 193px;
+	right: 0px;
+width: 605px;height: 31px;}
+div.page8_item1{
+	position: absolute;
+	top: 81px;
+	left: 423px;
+	right: 0px;
+width: 382px;height: 242px;}
+div.page9_item1{
+	position: absolute;
+	top: 386px;
+	left: 486px;
+	right: 0px;
+width: 322px;height: 44px;}
+div.page9_item2{
+	position: absolute;
+	top: 798px;
+	left: 141px;
+	right: 0px;
+width: 239px;height: 40px;}
+div.page10_item1{
+	position: absolute;
+	top: 81px;
+	left: 139px;
+	right: 0px;
+width: 529px;height: 178px;}
+div.page10_item2{
+	position: absolute;
+	top: 952px;
+	left: 139px;
+	right: 0px;
+width: 565px;height: 67px;}
+div.page11_item1{
+	position: absolute;
+	top: 71px;
+	left: 184px;
+	right: 0px;
+width: 453px;height: 112px;}
+div.page11_item2{
+	position: absolute;
+	top: 523px;
+	left: 184px;
+	right: 0px;
+width: 635px;height: 141px;}
+div.page11_item3{
+	position: absolute;
+	top: 986px;
+	left: 561px;
+	right: 0px;
+width: 231px;height: 48px;}
+div.page12_item1{
+	position: absolute;
+	top: 115px;
+	left: 185px;
+	right: 0px;
+width: 512px;height: 109px;}
+div.page13_item1{
+	position: absolute;
+	top: 115px;
+	left: 222px;
+	right: 0px;
+width: 525px;height: 130px;}
+div.page14_item1{
+	position: absolute;
+	top: 73px;
+	left: 159px;
+	right: 0px;
+width: 558px;height: 198px;}
+div.page14_item2{
+	position: absolute;
+	top: 793px;
+	left: 470px;
+	right: 0px;
+width: 332px;height: 130px;}
+div.page15_item1{
+	position: absolute;
+	top: 496px;
+	left: 207px;
+	right: 0px;
+width: 597px;height: 181px;}
+div.page16_item1{
+	position: absolute;
+	top: 81px;
+	left: 274px;
+	right: 0px;
+width: 501px;height: 206px;}
+div.page16_item2{
+	position: absolute;
+	top: 541px;
+	left: 155px;
+	right: 0px;
+width: 575px;height: 108px;}
+div.page17_item1{
+	position: absolute;
+	top: 918px;
+	left: 246px;
+	right: 0px;
+width: 468px;height: 99px;}
+div.page18_item1{
+	position: absolute;
+	top: 80px;
+	left: 162px;
+	right: 0px;
+width: 543px;height: 141px;}
+div.page18_item2{
+	position: absolute;
+	top: 500px;
+	left: 486px;
+	right: 0px;
+width: 302px;height: 255px;}
+div.page19_item1{
+	position: absolute;
+	top: 862px;
+	left: 219px;
+	right: 0px;
+width: 534px;height: 116px;}
+div.page20_item1{
+	position: absolute;
+	top: 81px;
+	left: 178px;
+	right: 0px;
+width: 521px;height: 138px;}
+div.page20_item2{
+	position: absolute;
+	top: 547px;
+	left: 583px;
+	right: 0px;
+width: 224px;height: 63px;}
+div.page20_item3{
+	position: absolute;
+	top: 605px;
+	left: 655px;
+	right: 0px;
+width: 129px;height: 45px;}
+div.page21_item1{
+	position: absolute;
+	top: 392px;
+	left: 187px;
+	right: 0px;
+width: 602px;height: 143px;}
+div.page21_item2{
+	position: absolute;
+	top: 884px;
+	left: 187px;
+	right: 0px;
+width: 590px;height: 130px;}
+div.page22_item1{
+	position: absolute;
+	top: 82px;
+	left: 380px;
+	right: 0px;
+width: 396px;height: 209px;}
+div.page22_item2{
+	position: absolute;
+	top: 319px;
+	left: 584px;
+	right: 0px;
+width: 165px;height: 99px;}
+div.page22_item3{
+	position: absolute;
+	top: 718px;
+	left: 147px;
+	right: 0px;
+width: 601px;height: 134px;}
+div.page23_item1{
+	position: absolute;
+	top: 81px;
+	left: 242px;
+	right: 0px;
+width: 482px;height: 106px;}
+div.page24_item1{
+	position: absolute;
+	top: 885px;
+	left: 121px;
+	right: 0px;
+width: 543px;height: 139px;}
+div.page26_item1{
+	position: absolute;
+	top: 80px;
+	left: 191px;
+	right: 0px;
+width: 481px;height: 144px;}
+
+@font-face
+{
+  font-family: "Arial";
+  src: url(../fonts/Arial.ttf);
+}
+@font-face
+{
+  font-family: "SimonciniGaramondStd-Italic";
+  src: url(../fonts/SimonciniGaramondStd-Italic.otf);
+}
+@font-face
+{
+  font-family: "SimonciniGaramondStd";
+  src: url(../fonts/SimonciniGaramondStd.otf);
+}
+@font-face
+{
+  font-family: "UnitedItalicCdHv";
+  src: url(../fonts/UnitedItalicCdHv.otf);
+}
+@font-face
+{
+  font-family: "UnitedSansCdHv";
+  src: url(../fonts/UnitedSansCdHv.otf);
+}
+span.arial
+{
+font-family: "Arial";
+}
+span.SimonciniGaramondStd_italic
+{
+font-size: 28px;
+font-family: "SimonciniGaramondStd-Italic";
+}
+
+span.SimonciniGaramondStd_italic1
+{
+font-family: "SimonciniGaramondStd-Italic";
+}
+
+p.copy{
+	word-spacing:1px;
+	font-family: "SimonciniGaramondStd";
+	font-size: 12px;
+	line-height: 19px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 19px;
+}
+p.auth1{
+	font-family: "SimonciniGaramondStd";
+	font-size: 19px;
+	line-height: 19px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.auth2{
+	font-family: "UnitedItalicCdHv";
+	font-size: 38px;
+	line-height: 60px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-left: -10px;
+	margin-bottom: 0px;
+}
+p.indent{
+	word-spacing:1px;
+	font-family: "SimonciniGaramondStd";
+	font-size: 26px;
+	line-height: 34px;
+	text-align: left;
+	text-indent: 35px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.indent1{
+	word-spacing:1px;
+	font-family: "SimonciniGaramondStd";
+	font-size: 28px;
+	line-height: 34px;
+	text-align: left;
+	text-indent: 35px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.nonindent{
+	word-spacing:1px;
+	font-family: "SimonciniGaramondStd";
+	font-size: 26px;
+	line-height: 34px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+span.dc
+{
+font-family: "UnitedSansCdHv";
+font-size: 60px;
+}
+span.italic17
+{
+font-family: "UnitedItalicCdHv";
+font-size: 32px;
+}
+span.italic16
+{
+font-family: "UnitedItalicCdHv";
+font-size: 31px;
+}
+span.italic18
+{
+font-family: "UnitedItalicCdHv";
+font-size: 35px;
+}
+span.italic20
+{
+font-family: "UnitedItalicCdHv";
+font-size: 38px;
+}
+
+span.italic22
+{
+font-family: "UnitedItalicCdHv";
+font-size: 42px;
+}
+span.italic26
+{
+font-family: "UnitedItalicCdHv";
+font-size: 49px;
+line-height:0px;
+}
+.left1
+{
+margin-left:78px;
+}
+.left2
+{
+margin-left:194px;
+}
+
+.left3
+{
+margin-left:48px;
+}
+.left4
+{
+margin-left:55px;
+}
+
+p.big26{
+	word-spacing:1px;
+	font-family: "UnitedSansCdHv";
+	font-size: 50px;
+	line-height: 50px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-left: 85px;
+	margin-bottom: 0px;
+}
+span.normal
+{
+font-size: 26px;
+font-family: "SimonciniGaramondStd";
+}
+span.heavy18
+{
+font-family: "UnitedSansCdHv";
+font-size: 35px;
+}
+
+span.align1
+{
+vertical-align:-3px;
+line-height:0px;
+}
+p.big{
+	word-spacing:1px;
+	font-family: "UnitedItalicCdHv";
+	letter-spacing:3px;
+	font-size: 35px;
+	line-height: 50px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+span.size2
+{
+font-size: 42px;
+line-height:0px;
+}
+span.size3
+{
+font-size: 51px;
+line-height:0px;
+}
+span.size4
+{
+font-size: 60px;
+line-height:0px;
+}
+span.size5
+{
+font-size: 67px;
+line-height:0px;
+}
+span.size6
+{
+font-size: 75px;
+line-height:0px;
+}
+span.size7
+{
+margin-left:8px;
+font-size: 82px;
+line-height:0px;
+}
+p.imprint{
+	font-family: "SimonciniGaramondStd";
+	font-size: 20px;
+	line-height: 20px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.sp
+{
+padding-left:10px;
+margin-left:-10px;
+}
+.media-overlay-active { color:#f00 !important; }

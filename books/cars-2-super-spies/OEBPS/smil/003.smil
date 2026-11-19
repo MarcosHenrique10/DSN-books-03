@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="10885ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Super -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="10885ms" clipEnd="11445ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Spies -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="11445ms" clipEnd="12825ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- By -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="12825ms" clipEnd="13105ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Susan -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="13105ms" clipEnd="13645ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Amerikaner -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="13645ms" clipEnd="15015ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="15015ms" clipEnd="15665ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- by -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="15665ms" clipEnd="16005ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Caroline -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="16005ms" clipEnd="16555ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- LaVelle -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="16555ms" clipEnd="17255ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Egan -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="17255ms" clipEnd="17785ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Scott -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="17785ms" clipEnd="18215ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Tilley -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="18215ms" clipEnd="19015ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Andrew -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="19015ms" clipEnd="19495ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Phillipson -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="19495ms" clipEnd="20505ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- and -->
+			<text src="../003.xhtml#w15"/>
+			<audio clipBegin="20505ms" clipEnd="20735ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- Seung -->
+			<text src="../003.xhtml#w16"/>
+			<audio clipBegin="20735ms" clipEnd="21235ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- Beom -->
+			<text src="../003.xhtml#w17"/>
+			<audio clipBegin="21235ms" clipEnd="21595ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- Kim -->
+			<text src="../003.xhtml#w18"/>
+			<audio clipBegin="21595ms" clipEnd="22095ms" src="../audio/9781484751893.m4a"/>
+		</par>
+		<par id="id18g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="22095ms" clipEnd="23180ms" src="../audio/9781484751893.m4a"/>
+		</par>
+	</body>
+</smil>
