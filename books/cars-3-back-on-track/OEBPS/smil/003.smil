@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="18185ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- by -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="18185ms" clipEnd="18345ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Susan -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="18345ms" clipEnd="18845ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Amerikaner -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="18845ms" clipEnd="20105ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- illustrated -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="20105ms" clipEnd="20705ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- by -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="20705ms" clipEnd="20925ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- the -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="20925ms" clipEnd="21005ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Disney -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="21005ms" clipEnd="21485ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="21485ms" clipEnd="22115ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Art -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="22115ms" clipEnd="22345ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Team -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="22345ms" clipEnd="22705ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id10g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="22705ms" clipEnd="23869ms" src="../audio/9781368000536.m4a"/>
+		</par>
+	</body>
+</smil>

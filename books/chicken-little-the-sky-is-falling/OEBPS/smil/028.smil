@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id264g">
+      <!--  -->
+      <text src="../028.xhtml#empty"/>
+      <audio clipBegin="157083ms" clipEnd="158095ms" src="../audio/9781484751206.m4a"/>
+    </par>
+    <par id="id264">
+      <!-- Buck -->
+      <text src="../028.xhtml#w264"/>
+      <audio clipBegin="158095ms" clipEnd="158475ms" src="../audio/9781484751206.m4a"/>
+    </par>
+    <par id="id265">
+      <!-- and -->
+      <text src="../028.xhtml#w265"/>
+      <audio clipBegin="158475ms" clipEnd="158715ms" src="../audio/9781484751206.m4a"/>
+    </par>
+    <par id="id266">
+      <!-- Chicken -->
+      <text src="../028.xhtml#w266"/>
+      <audio clipBegin="158715ms" clipEnd="159185ms" src="../audio/9781484751206.m4a"/>
+    </par>
+    <par id="id267">
+      <!-- Little -->
+      <text src="../028.xhtml#w267"/>
+      <audio clipBegin="159185ms" clipEnd="159625ms" src="../audio/9781484751206.m4a"/>
+    </par>
+    <par id="id268">
+      <!-- faced -->
+      <text src="../028.xhtml#w268"/>
+      <audio clipBegin="159625ms" clipEnd="160265ms" src="../audio/9781484751206.m4a"/>
+    </par>
+    <par id="id269">
+      <!-- the -->
+      <text src="../028.xhtml#w269"/>
+      <audio clipBegin="160265ms" clipEnd="160525ms" src="../audio/9781484751206.m4a"/>
+    </par>
+    <par id="id270">
+      <!-- aliens -->
+      <text src="../028.xhtml#w270"/>
+      <audio clipBegin="160525ms" clipEnd="161205ms" src="../audio/9781484751206.m4a"/>
+    </par>
+    <par id="id270g">
+      <!--  -->
+      <text src="../028.xhtml#empty1"/>
+      <audio clipBegin="161205ms" clipEnd="161585ms" src="../audio/9781484751206.m4a"/>
+    </par>
+  </body>
+</smil>

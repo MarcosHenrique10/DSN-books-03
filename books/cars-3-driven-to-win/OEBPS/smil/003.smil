@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="18173ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- by -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="18173ms" clipEnd="18333ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Liz -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="18333ms" clipEnd="18733ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Marsham -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="18733ms" clipEnd="19763ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- illustrated -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="19763ms" clipEnd="20313ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- by -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="20313ms" clipEnd="20483ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- the -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="20483ms" clipEnd="20603ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Disney -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="20603ms" clipEnd="21093ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="21093ms" clipEnd="21673ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Art -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="21673ms" clipEnd="21943ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Team -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="21943ms" clipEnd="22363ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id10g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="22363ms" clipEnd="23578ms" src="../audio/9781368000451.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id242g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="164718ms" clipEnd="165753ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id242">
+			<!-- Cruz -->
+			<text src="../024.xhtml#w242"/>
+			<audio clipBegin="165753ms" clipEnd="166303ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id243">
+			<!-- races -->
+			<text src="../024.xhtml#w243"/>
+			<audio clipBegin="166303ms" clipEnd="167293ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id244">
+			<!-- Her -->
+			<text src="../024.xhtml#w244"/>
+			<audio clipBegin="167293ms" clipEnd="167523ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id245">
+			<!-- dream -->
+			<text src="../024.xhtml#w245"/>
+			<audio clipBegin="167523ms" clipEnd="168003ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id246">
+			<!-- comes -->
+			<text src="../024.xhtml#w246"/>
+			<audio clipBegin="168003ms" clipEnd="168543ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id247">
+			<!-- true -->
+			<text src="../024.xhtml#w247"/>
+			<audio clipBegin="168543ms" clipEnd="169603ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id248">
+			<!-- She -->
+			<text src="../024.xhtml#w248"/>
+			<audio clipBegin="169603ms" clipEnd="169933ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id249">
+			<!-- is -->
+			<text src="../024.xhtml#w249"/>
+			<audio clipBegin="169933ms" clipEnd="170063ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id250">
+			<!-- happy -->
+			<text src="../024.xhtml#w250"/>
+			<audio clipBegin="170063ms" clipEnd="170603ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id251">
+			<!-- that -->
+			<text src="../024.xhtml#w251"/>
+			<audio clipBegin="170603ms" clipEnd="170823ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id252">
+			<!-- Lightning -->
+			<text src="../024.xhtml#w252"/>
+			<audio clipBegin="170823ms" clipEnd="171723ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id253">
+			<!-- is -->
+			<text src="../024.xhtml#w253"/>
+			<audio clipBegin="171723ms" clipEnd="172223ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id254">
+			<!-- her -->
+			<text src="../024.xhtml#w254"/>
+			<audio clipBegin="172223ms" clipEnd="172773ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id255">
+			<!-- teammate -->
+			<text src="../024.xhtml#w255"/>
+			<audio clipBegin="172773ms" clipEnd="174463ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id255g">
+			<!--  -->
+			<text src="../024.xhtml#empty1"/>
+			<audio clipBegin="174463ms" clipEnd="190172ms" src="../audio/9781368000536.m4a"/>
+		</par>
+	</body>
+</smil>

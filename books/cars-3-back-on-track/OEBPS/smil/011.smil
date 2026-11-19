@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id86g">
+			<!--  -->
+			<text src="../011.xhtml#empty"/>
+			<audio clipBegin="70083ms" clipEnd="70663ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id86">
+			<!-- Luigi -->
+			<text src="../011.xhtml#w86"/>
+			<audio clipBegin="70663ms" clipEnd="71563ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id87">
+			<!-- and -->
+			<text src="../011.xhtml#w87"/>
+			<audio clipBegin="71563ms" clipEnd="71733ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id88">
+			<!-- Guido -->
+			<text src="../011.xhtml#w88"/>
+			<audio clipBegin="71733ms" clipEnd="72353ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id89">
+			<!-- are -->
+			<text src="../011.xhtml#w89"/>
+			<audio clipBegin="72353ms" clipEnd="72433ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id90">
+			<!-- part -->
+			<text src="../011.xhtml#w90"/>
+			<audio clipBegin="72433ms" clipEnd="72753ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id91">
+			<!-- of -->
+			<text src="../011.xhtml#w91"/>
+			<audio clipBegin="72753ms" clipEnd="72853ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id92">
+			<!-- Lightning's -->
+			<text src="../011.xhtml#w92"/>
+			<audio clipBegin="72853ms" clipEnd="73303ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id93">
+			<!-- pit -->
+			<text src="../011.xhtml#w93"/>
+			<audio clipBegin="73303ms" clipEnd="73573ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id94">
+			<!-- crew -->
+			<text src="../011.xhtml#w94"/>
+			<audio clipBegin="73573ms" clipEnd="74583ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id95">
+			<!-- Luigi -->
+			<text src="../011.xhtml#w95"/>
+			<audio clipBegin="74583ms" clipEnd="75103ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id96">
+			<!-- chooses -->
+			<text src="../011.xhtml#w96"/>
+			<audio clipBegin="75103ms" clipEnd="75613ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id97">
+			<!-- tires -->
+			<text src="../011.xhtml#w97"/>
+			<audio clipBegin="75613ms" clipEnd="76593ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id98">
+			<!-- Guido -->
+			<text src="../011.xhtml#w98"/>
+			<audio clipBegin="76593ms" clipEnd="77363ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id99">
+			<!-- changes -->
+			<text src="../011.xhtml#w99"/>
+			<audio clipBegin="77363ms" clipEnd="77823ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id100">
+			<!-- them -->
+			<text src="../011.xhtml#w100"/>
+			<audio clipBegin="77823ms" clipEnd="78073ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id100g">
+			<!--  -->
+			<text src="../011.xhtml#empty1"/>
+			<audio clipBegin="78073ms" clipEnd="79188ms" src="../audio/9781368000536.m4a"/>
+		</par>
+	</body>
+</smil>

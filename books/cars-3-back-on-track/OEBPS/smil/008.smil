@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id46g">
+			<!--  -->
+			<text src="../008.xhtml#empty"/>
+			<audio clipBegin="46353ms" clipEnd="47423ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id46">
+			<!-- Cruz -->
+			<text src="../008.xhtml#w46"/>
+			<audio clipBegin="47423ms" clipEnd="47963ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id47">
+			<!-- Ramirez -->
+			<text src="../008.xhtml#w47"/>
+			<audio clipBegin="47963ms" clipEnd="48603ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id48">
+			<!-- trains -->
+			<text src="../008.xhtml#w48"/>
+			<audio clipBegin="48603ms" clipEnd="49203ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id49">
+			<!-- race -->
+			<text src="../008.xhtml#w49"/>
+			<audio clipBegin="49203ms" clipEnd="49503ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id50">
+			<!-- cars -->
+			<text src="../008.xhtml#w50"/>
+			<audio clipBegin="49503ms" clipEnd="50633ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id51">
+			<!-- She -->
+			<text src="../008.xhtml#w51"/>
+			<audio clipBegin="50633ms" clipEnd="50983ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id52">
+			<!-- dreams -->
+			<text src="../008.xhtml#w52"/>
+			<audio clipBegin="50983ms" clipEnd="51453ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id53">
+			<!-- of -->
+			<text src="../008.xhtml#w53"/>
+			<audio clipBegin="51453ms" clipEnd="51583ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id54">
+			<!-- racing -->
+			<text src="../008.xhtml#w54"/>
+			<audio clipBegin="51583ms" clipEnd="52023ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id55">
+			<!-- one -->
+			<text src="../008.xhtml#w55"/>
+			<audio clipBegin="52023ms" clipEnd="52353ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id56">
+			<!-- day -->
+			<text src="../008.xhtml#w56"/>
+			<audio clipBegin="52353ms" clipEnd="52833ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id56g">
+			<!--  -->
+			<text src="../008.xhtml#empty1"/>
+			<audio clipBegin="52833ms" clipEnd="53403ms" src="../audio/9781368000536.m4a"/>
+		</par>
+	</body>
+</smil>

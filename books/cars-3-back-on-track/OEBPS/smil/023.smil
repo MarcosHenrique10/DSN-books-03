@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id236g">
+			<!--  -->
+			<text src="../023.xhtml#empty"/>
+			<audio clipBegin="160213ms" clipEnd="160763ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id236">
+			<!-- Now -->
+			<text src="../023.xhtml#w236"/>
+			<audio clipBegin="160763ms" clipEnd="161213ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id237">
+			<!-- she -->
+			<text src="../023.xhtml#w237"/>
+			<audio clipBegin="161213ms" clipEnd="161473ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id238">
+			<!-- gives -->
+			<text src="../023.xhtml#w238"/>
+			<audio clipBegin="161473ms" clipEnd="161783ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id239">
+			<!-- Cruz -->
+			<text src="../023.xhtml#w239"/>
+			<audio clipBegin="161783ms" clipEnd="162593ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id240">
+			<!-- racing -->
+			<text src="../023.xhtml#w240"/>
+			<audio clipBegin="162593ms" clipEnd="163133ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id241">
+			<!-- tips -->
+			<text src="../023.xhtml#w241"/>
+			<audio clipBegin="163133ms" clipEnd="163683ms" src="../audio/9781368000536.m4a"/>
+		</par>
+		<par id="id241g">
+			<!--  -->
+			<text src="../023.xhtml#empty1"/>
+			<audio clipBegin="163683ms" clipEnd="164718ms" src="../audio/9781368000536.m4a"/>
+		</par>
+	</body>
+</smil>

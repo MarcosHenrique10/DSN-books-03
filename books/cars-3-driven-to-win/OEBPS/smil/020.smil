@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id250g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="153583ms" clipEnd="153873ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id250">
+			<!-- Lightning -->
+			<text src="../020.xhtml#w250"/>
+			<audio clipBegin="153873ms" clipEnd="154273ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id251">
+			<!-- and -->
+			<text src="../020.xhtml#w251"/>
+			<audio clipBegin="154273ms" clipEnd="154423ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id252">
+			<!-- Cruz -->
+			<text src="../020.xhtml#w252"/>
+			<audio clipBegin="154423ms" clipEnd="154953ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id253">
+			<!-- train -->
+			<text src="../020.xhtml#w253"/>
+			<audio clipBegin="154953ms" clipEnd="155413ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id254">
+			<!-- with -->
+			<text src="../020.xhtml#w254"/>
+			<audio clipBegin="155413ms" clipEnd="155583ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id255">
+			<!-- Doc's -->
+			<text src="../020.xhtml#w255"/>
+			<audio clipBegin="155583ms" clipEnd="155993ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id256">
+			<!-- friends -->
+			<text src="../020.xhtml#w256"/>
+			<audio clipBegin="155993ms" clipEnd="156973ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id257">
+			<!-- They -->
+			<text src="../020.xhtml#w257"/>
+			<audio clipBegin="156973ms" clipEnd="157193ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id258">
+			<!-- pull -->
+			<text src="../020.xhtml#w258"/>
+			<audio clipBegin="157193ms" clipEnd="157503ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id259">
+			<!-- heavy -->
+			<text src="../020.xhtml#w259"/>
+			<audio clipBegin="157503ms" clipEnd="157963ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id260">
+			<!-- trailers -->
+			<text src="../020.xhtml#w260"/>
+			<audio clipBegin="157963ms" clipEnd="158763ms" src="../audio/9781368000451.m4a"/>
+		</par>
+		<par id="id260g">
+			<!--  -->
+			<text src="../020.xhtml#empty1"/>
+			<audio clipBegin="158763ms" clipEnd="159323ms" src="../audio/9781368000451.m4a"/>
+		</par>
+	</body>
+</smil>
